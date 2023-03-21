@@ -1,4 +1,4 @@
-[AI For Accessibility Challenge 2022-2023](https://technationcanada.agorize.com/en/challenges/ai-for-accessibility?lang=en)
+[AI For Accessibility Challenge 2022-2023](https://technationcanada.agorize.com/en/challenges/ai-for-accessibility?lang=en)  
 amplifAI
 ========================================
 
