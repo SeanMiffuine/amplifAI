@@ -4,8 +4,8 @@ amplifAI
 
 AmplifAI aims to solve communication difficulties caused by dysarthria by providing real-time speech augmentation and enhancement. We use AI to correct pronunciations and clarify their words based on personalized speech patterns.
 
-![Statistics](presentation\AmplifAi - Create It-01.jpg)  
-![Problem Statement](presentation\AmplifAi - Create It-03.jpg)  
+<!-- ![Statistics] (presentation\AmplifAi - Create It-01.jpg)  
+![Problem Statement] (presentation\AmplifAi - Create It-03.jpg)   -->
 <!-- ![Main Question](C:\Users\yeoju\Desktop\amplifAI\amplifAI\presentation\AmplifAi - Create It-04.jpg)  
 ![Mission Statement](C:\Users\yeoju\Desktop\amplifAI\amplifAI\presentation\AmplifAi - Create It-05.jpg)  
 ![User Story](C:\Users\yeoju\Desktop\amplifAI\amplifAI\presentation\AmplifAi - Create It-06.jpg)  
