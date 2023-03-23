@@ -107,13 +107,14 @@ def print_menu():
     print(f"\t\t\t\t{RESET}{CYAN}[ BEGIN or EXIT ]{RESET}")
 
 def transcription():
-    print()
+    print("\n\n\tTranscription:\n")
 
 def print_footer():
     print("\n" * 3)
     print(f"{BOLD}{BLUE}{'=' * 80}{RESET}")
     print(f"{BOLD}{BLUE}{'*' * 80}{RESET}")
     print(f"{BOLD}{BLUE}{'=' * 80}{RESET}")
+
 
 def init():
     while True:
@@ -128,6 +129,7 @@ def init():
         elif choice == 'BEGIN':
             clear_screen()
             print_header()
+            transcription()
             speech_recognize_continuous_async_from_microphone()
 
     
